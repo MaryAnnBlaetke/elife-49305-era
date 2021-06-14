@@ -1,0 +1,41 @@
+Elife ERA Table & Figure Changes
+
+# Tables
+
+- #table1 **→ #table1**
+- #table2 **→ #table2**
+- #table3 → data table (old table commented) **→ #table3**
+- #table4 → data table (old table commented) **→ #table4**
+
+# Figures
+
+- #fig1 **→ #fig1**
+    - no changes required for source-data 1-2, and source code 1-3
+    - #fig1s1 → data figure (old figure commented), split into two new figures according to original subfigures:
+        - #fig1s1 (A) **→ #fig1s1**
+        - #fig1s1 (B) **→ #fig1s2**
+    - #fig1s2 → data figure (old figure commented), split into two new figures  grouping original subfigures:
+        - #fig1s2 (A), (B), (C) **→ #fig1s3**
+        - #fig1s2 (D), (E) **→ #fig1s4**
+- #fig2  **→ #fig2**
+- #fig 3 → data figure → split into two figures grouping original subfigures:
+    - #fig3 (A), (B), (C), (D) **→ #fig3**
+        - !!! **add original Figure 3—source code 1 here → no renaming required**
+    - #fig3 (E), (F) **→ #fig4**
+- #fig3s1 → data figure  (old figure commented) **→ #fig3s1**
+- #fig4 → data figure  (old figure commented)  **→ #fig5**
+    - !!! **add original Figure 4—source code 1 here → renaming required to "Figure 5—source code 1"**
+- #fig5 → data figure  (old figure commented)   **→ #fig6**
+- #fig6 → data figure (old figure commented) → split into two new figures for better arrangement:
+    - #fig6 (A) **→ #fig7**
+    - #fig6 (B )**→ #fig8**
+        - !!! **add original Figure 6—source code 1 here → renaming required to "Figure 8—source code 1"**
+        - !!! **add original Figure 6—source code 2 here → renaming required to "Figure 8—source code 2"**
+        - !!! **add original Figure 6—source code 3 here → renaming required to "Figure 8—source code 3"**
+        - !!! **add original Figure 6—source code 4 here → renaming required to "Figure 8—source code 4"**
+        - !!! **add original Figure 6—source code 5 here → renaming required to "Figure 8—source code 5"**
+        - #fig6s1 → data figure (old figure commented), split into four new figures according to original subfigures - new ids:
+            - #fig6s1 (A) **→ #fig8s1**
+            - #fig6s1 (B) **→ #fig8s2**
+            - #fig6s1 (C) **→ #fig8s3**
+            - #fig6s1 (D) **→ #fig8s4**
